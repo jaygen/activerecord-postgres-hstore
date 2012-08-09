@@ -84,7 +84,6 @@ Gem::Specification.new do |s|
     "lib/activerecord-postgres-hstore/activerecord.rb",
     "lib/activerecord-postgres-hstore/coder.rb",
     "lib/activerecord-postgres-hstore/hash.rb",
-    "lib/activerecord-postgres-hstore/railties.rb",
     "lib/activerecord-postgres-hstore/string.rb",
     "lib/templates/setup_hstore.rb",
     "lib/templates/setup_hstore91.rb",
